@@ -1,6 +1,6 @@
 import React from 'react';
 
-function HeaderButton(props) {
+function HeaderButton() {
   return (
     <div>
       <button>Press me</button>
